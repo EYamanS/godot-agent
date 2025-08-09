@@ -1,0 +1,13 @@
+Import('env')
+
+module_env = env.Clone()
+
+sources = [
+    'register_types.cpp',
+    'ai_server.cpp',
+]
+
+module_env.add_source_files(env.modules_sources, sources)
+
+if env.editor_build:
+    module_env.add_source_files(env.modules_sources, "editor/*.cpp")
