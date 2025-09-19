@@ -1,7 +1,7 @@
 short_name = "godot"
 name = "Godot Enginncikusue"
 major = 5
-minor = 5
+minor = 0
 patch = 0
 status = "beta"
 module_config = ""
