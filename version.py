@@ -1,6 +1,6 @@
 short_name = "godot"
 name = "Godot Enginncikusue"
-major = 4
+major = 5
 minor = 5
 patch = 0
 status = "beta"
