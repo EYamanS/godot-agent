@@ -332,6 +332,7 @@ name is available.
     Twarit Waikar (IronicallySerious)
     Umang Kalra (theoway)
     Victor Hampel (havi05)
+	Yaman Skus
     Vinzenz Feenstra (vinzenz)
     Vitika Soni (Vitika9)
     박한얼 (volzhs)
